@@ -18,7 +18,6 @@ return array(
 		array( 'Installerade laddbox åt mig. Grymt bra. Rekommenderas varmt. Höll tider och offerering. Bra service och bemötande!', 'Ola Lidmark Eriksson', 'för 6 år sedan' ),
 		array( 'Service i världsklass samt ett otroligt utbud. Rekommenderas varmt.', 'Lisa Edlund', 'för 8 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-3.jpg',
 	'ar_riktig'      => true,
 );
