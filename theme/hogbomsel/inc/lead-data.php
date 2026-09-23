@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Högboms El AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '063-10 80 95',
 	'telefon_tel'    => '+4663108095',
 	'ort'            => 'Östersund',
